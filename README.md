@@ -20,6 +20,8 @@ vector<int> prefix_function(string s) {
 }
 
 ```
+
+```
 Ques – 
 405 – Make Pallindrome by adding Suffix
 675 – Longest Prefix that is Suffix

@@ -24,6 +24,8 @@ vector<int> prefix_function(string s) {
 ```
 Ques – 
 405 – Make Pallindrome by adding Suffix
+   In adding suffix ( new s = rev(s) + & + s ) 
 675 – Longest Prefix that is Suffix
 Minimum characters to be added at front to make string palindrome (GFG)
+    In adding prefix ( new s = s + & + rev(s) )
 Longest Prefix Suffix (GFG)
